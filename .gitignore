@@ -1,2 +1,4 @@
 *.mp4
 ant_colony.ipynb
+
+__pycache__
