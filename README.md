@@ -9,3 +9,5 @@ $ virtualenv .venv
 $ source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
+### result :D
+<img src="./final_result.gif" alt="result" title="fish movement visualized"/>
